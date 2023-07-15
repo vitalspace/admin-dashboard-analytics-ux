@@ -57,12 +57,12 @@
         </section>
 
         <section class="flex w-full justify-between space-x-4">
-          <div class="h-72 w-1/2 border-2 pl-4 pt-8">
+          <div class="h-72 w-1/2 border-2 pl-8 pt-8">
             <h2 class="text-2xl">Study 78x</h2>
             <p>In progress</p>
           </div>
 
-          <div class="h-72 w-1/2 border-2 pl-4 pt-8">
+          <div class="h-72 w-1/2 border-2 pl-8 pt-8">
             <h2 class="text-2xl">Study 78x</h2>
             <p>In progress</p>
           </div>
@@ -165,5 +165,3 @@
     </div>
   </div>
 </div>
-
-
