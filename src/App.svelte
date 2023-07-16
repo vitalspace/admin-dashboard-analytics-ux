@@ -53,9 +53,9 @@
           ">Sustainable development goals and health innovation</h2></header>
           <div class="flex justify-between">
             <div class="flex">
-              <div class="h-10 w-10 rounded-full bg-black"></div>
-              <div class="h-10 w-10 rounded-full bg-black"></div>
-              <div class="h-10 w-10 rounded-full bg-black"></div>
+              <div class="h-10 w-10 rounded-full bg-cyan-400"></div>
+              <div class="h-10 w-10 rounded-full bg-slate-400"></div>
+              <div class="h-10 w-10 rounded-full bg-pink-400"></div>
             </div>
             <div class="border-l-2 pl-4">
               <h2 class="text-xl font-bold">Medi Team meeting</h2>
