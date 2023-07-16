@@ -27,9 +27,7 @@
         </div>
       </header>
       <footer class="flex items-center space-x-4">
-        <div class="rounded-full bg-black p-2">
-          <img class="w-5 h5" src="log-out-02-svgrepo-com.svg" alt="">
-        </div>
+        <button class="h-10 w-10 rounded-full bg-[url('log-out-02-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button> 
         <p class="font-bold">Log out</p>
       </footer>
     </section>  
