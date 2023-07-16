@@ -27,7 +27,7 @@
         </div>
       </header>
       <footer class="flex items-center space-x-4">
-        <button class="h-10 w-10 rounded-full bg-[url('log-out-02-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
+        <button class="h-10 w-10 rounded-full bg-[url('/log-out-02-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
         <p class="font-bold">Log out</p>
       </footer>
     </section>
@@ -42,7 +42,7 @@
               <h2 class="text-2xl">Today's Plan</h2>
               <p>Jul 14th 2023</p>
             </div>
-            <button class="h-10 w-10 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
+            <button class="h-10 w-10 rounded-full bg-[url('/cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
           </header>
         </section>
 
@@ -153,7 +153,7 @@
 
           <div class="flex flex-wrap items-center justify-between py-2">
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
+              <div class="h-20 w-20 bg-[url('/shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Viruses</h2>
                 <p>96% progress</p>
@@ -161,7 +161,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
+              <div class="h-20 w-20 bg-[url('/shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Med scinece</h2>
                 <p>33% progress</p>
@@ -169,7 +169,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
+              <div class="h-20 w-20 bg-[url('/shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Bacterial cells</h2>
                 <p>7% progress</p>
@@ -177,7 +177,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
+              <div class="h-20 w-20 bg-[url('/shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Human gens</h2>
                 <p>58% progress</p>
@@ -190,16 +190,16 @@
       <div class="flex w-72 flex-wrap bg-white px-8">
         <section class="flex w-full flex-col items-center justify-between space-y-4 px-8 py-8">
           <header class="flex flex-col items-center space-y-2 text-center">
-            <figure class="h-20 w-20 rounded-full bg-[url('vitalspace.png')] bg-cover bg-center bg-no-repeat shadow-lg"></figure>
+            <figure class="h-20 w-20 rounded-full bg-[url('/vitalspace.png')] bg-cover bg-center bg-no-repeat shadow-lg"></figure>
             <div>
               <h2 class="text-xl font-bold">JrDev</h2>
               <p>Developer</p>
             </div>
           </header>
           <footer class="flex flex-col items-center space-y-4">
-            <button class="h-10 w-10 rounded-full bg-[url('write-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
-            <button class="h-10 w-10 rounded-full bg-[url('message-square-lines-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
-            <button class="h-16 w-16 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
+            <button class="h-10 w-10 rounded-full bg-[url('/write-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
+            <button class="h-10 w-10 rounded-full bg-[url('/message-square-lines-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
+            <button class="h-16 w-16 rounded-full bg-[url('/cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
           </footer>
         </section>
       </div>
