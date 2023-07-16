@@ -39,7 +39,7 @@
         <section class="w-full">
           <header class="flex justify-between">
             <div>
-              <h2 class="text-2xl">Today's Plan</h2>
+              <h2 class="text-2xl font-bold">Today's Plan</h2>
               <p>Jul 14th 2023</p>
             </div>
             <button class="h-10 w-10 rounded-full bg-[url('/cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
