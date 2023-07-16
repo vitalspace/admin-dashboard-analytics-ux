@@ -192,7 +192,7 @@
           <header class="flex flex-col items-center space-y-2 text-center">
             <figure class="h-20 w-20 rounded-full bg-[url('/vitalspace.png')] bg-cover bg-center bg-no-repeat shadow-lg"></figure>
             <div>
-              <h2 class="text-xl font-bold">JrDev</h2>
+              <h2 class="text-xl font-bold">JrDev94</h2>
               <p>Developer</p>
             </div>
           </header>
