@@ -4,33 +4,33 @@
 
 <div class="absolute inset-0 bg-[#faf9f3]">
   <div class="fixed inset-0 flex w-72 flex-wrap border-l-2">
-    <section class="flex px-8 w-72 flex-col items-center justify-between space-y-4 py-8">
+    <section class="flex w-72 flex-col items-center justify-between space-y-4 px-8 py-8">
       <header class="mt-20 w-full space-y-8 text-center">
         <h2 class="text-3xl font-bold">Solarius</h2>
         <div class="flex flex-col space-y-4">
-          <button class="flex space-x-2 items-center font-bold bg-[#eee6e0] px-5 py-2">
-            <img class="w-8 h-8" src="graph-svgrepo-com.svg" alt="graph">
+          <button class="flex items-center space-x-2 bg-[#eee6e0] px-5 py-2 font-bold">
+            <img class="h-8 w-8" src="graph-svgrepo-com.svg" alt="graph" />
             <span>Dashbord</span>
           </button>
-          <button class="flex space-x-2 items-center font-bold px-5 py-2">
-            <img class="w-8 h-8" src="education-learning-20-svgrepo-com.svg" alt="education">
+          <button class="flex items-center space-x-2 px-5 py-2 font-bold">
+            <img class="h-8 w-8" src="education-learning-20-svgrepo-com.svg" alt="education" />
             <p>Education</p>
           </button>
-          <button class="flex space-x-2 items-center font-bold px-5 py-2">
-            <img class="w-8 h-8" src="copy-svgrepo-com.svg" alt="education">
+          <button class="flex items-center space-x-2 px-5 py-2 font-bold">
+            <img class="h-8 w-8" src="copy-svgrepo-com.svg" alt="education" />
             <p>Resuources</p>
           </button>
-          <button class="flex space-x-2 items-center font-bold px-5 py-2">
-            <img class="w-8 h-8" src="settings-svgrepo-com.svg" alt="settings">
+          <button class="flex items-center space-x-2 px-5 py-2 font-bold">
+            <img class="h-8 w-8" src="settings-svgrepo-com.svg" alt="settings" />
             <p>Settings</p>
           </button>
         </div>
       </header>
       <footer class="flex items-center space-x-4">
-        <button class="h-10 w-10 rounded-full bg-[url('log-out-02-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button> 
+        <button class="h-10 w-10 rounded-full bg-[url('log-out-02-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
         <p class="font-bold">Log out</p>
       </footer>
-    </section>  
+    </section>
   </div>
 
   <div class="absolute inset-0 ml-72">
@@ -42,13 +42,12 @@
               <h2 class="text-2xl">Today's Plan</h2>
               <p>Jul 14th 2023</p>
             </div>
-            <button class="h-10 w-10 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button>
+            <button class="h-10 w-10 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
           </header>
         </section>
 
         <section class="w-full space-y-4">
-          <header><h2 class="text-3xl
-          ">Sustainable development goals and health innovation</h2></header>
+          <header><h2 class="text-3xl">Sustainable development goals and health innovation</h2></header>
           <div class="flex justify-between">
             <div class="flex">
               <div class="h-10 w-10 rounded-full bg-cyan-400"></div>
@@ -73,18 +72,18 @@
         </section>
 
         <section class="flex w-full space-x-4">
-          <div class="h-72 space-y-4 w-1/2 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
+          <div class="h-72 w-1/2 space-y-4 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
             <h2 class="text-2xl font-bold">Study 78x</h2>
             <div class="flex space-x-2">
-              <img class="w-7 h-7" src="time-filled-svgrepo-com.svg" alt="">
+              <img class="h-7 w-7" src="time-filled-svgrepo-com.svg" alt="" />
               <p>In progress</p>
             </div>
           </div>
 
-          <div class="h-72 space-y-4 w-1/2 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
+          <div class="h-72 w-1/2 space-y-4 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
             <h2 class="text-2xl font-bold">Analyses</h2>
             <div class="flex space-x-2">
-              <img class="w-7 h-7" src="check-svgrepo-com.svg" alt="">
+              <img class="h-7 w-7" src="check-svgrepo-com.svg" alt="" />
               <p>Completed</p>
             </div>
           </div>
@@ -109,7 +108,7 @@
               <h3 class="text-xl font-bold">Multispectific liquids analysis</h3>
             </div>
             <footer class="flex items-center space-x-2">
-              <img class="w-7 h-7" src="bell-bing-svgrepo-com.svg" alt="">
+              <img class="h-7 w-7" src="bell-bing-svgrepo-com.svg" alt="" />
               <p>New feedback</p>
             </footer>
           </div>
@@ -123,7 +122,7 @@
               <h3 class="font-bold">Protein characterization during childhood and pregnancy</h3>
             </div>
             <footer class="flex items-center space-x-2">
-              <img class="w-7 h-7" src="exclamation-svgrepo-com.svg" alt="">
+              <img class="h-7 w-7" src="exclamation-svgrepo-com.svg" alt="" />
               <p>Deadline is today</p>
             </footer>
           </div>
@@ -137,7 +136,7 @@
               <h3 class="font-bold">Quick element dissolution testing</h3>
             </div>
             <footer class="flex items-center space-x-2">
-              <img class="w-7 h-7" src="check-svgrepo-com.svg" alt="">
+              <img class="h-7 w-7" src="check-svgrepo-com.svg" alt="" />
               <p>Accepted</p>
             </footer>
           </div>
@@ -154,7 +153,7 @@
 
           <div class="flex flex-wrap items-center justify-between py-2">
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></div>
+              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Viruses</h2>
                 <p>96% progress</p>
@@ -162,7 +161,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></div>
+              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Med scinece</h2>
                 <p>33% progress</p>
@@ -170,7 +169,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></div>
+              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Bacterial cells</h2>
                 <p>7% progress</p>
@@ -178,7 +177,7 @@
             </div>
 
             <div class="my-2 flex w-2/5 items-center space-x-4">
-              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></div>
+              <div class="h-20 w-20 bg-[url('shapes-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></div>
               <div>
                 <h2 class="font-bold">Human gens</h2>
                 <p>58% progress</p>
@@ -190,17 +189,17 @@
 
       <div class="flex w-72 flex-wrap bg-white px-8">
         <section class="flex w-full flex-col items-center justify-between space-y-4 px-8 py-8">
-          <header class="space-y-2 text-center flex items-center flex-col">
-            <figure class="h-20 w-20 rounded-full bg-[url('vitalspace.png')] bg-no-repeat bg-cover bg-center shadow-lg"></figure> 
+          <header class="flex flex-col items-center space-y-2 text-center">
+            <figure class="h-20 w-20 rounded-full bg-[url('vitalspace.png')] bg-cover bg-center bg-no-repeat shadow-lg"></figure>
             <div>
               <h2 class="text-xl font-bold">JrDev</h2>
               <p>Developer</p>
             </div>
           </header>
           <footer class="flex flex-col items-center space-y-4">
-            <button class="h-10 w-10 rounded-full shadow-lg bg-[url('write-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button>
-            <button class="h-10 w-10 rounded-full shadow-lg bg-[url('message-square-lines-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button> 
-            <button class="h-16 w-16 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-no-repeat bg-cover bg-center"></button> 
+            <button class="h-10 w-10 rounded-full bg-[url('write-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
+            <button class="h-10 w-10 rounded-full bg-[url('message-square-lines-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat shadow-lg"></button>
+            <button class="h-16 w-16 rounded-full bg-[url('cross-circle-svgrepo-com.svg')] bg-cover bg-center bg-no-repeat"></button>
           </footer>
         </section>
       </div>
