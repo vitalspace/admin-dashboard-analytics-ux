@@ -61,7 +61,7 @@
           </div>
         </section>
 
-        <section class="flex h-2/5 w-full flex-col justify-between space-y-4 border-2 bg-gradient-to-br from-[#ece4d3] via-[#d6ddd3] to-[#98aeb0] px-8 py-8">
+        <section class="flex h-2/5 w-full flex-col justify-between space-y-4 bg-gradient-to-br from-[#ece4d3] via-[#d6ddd3] to-[#98aeb0] px-8 py-8">
           <header>
             <h2 class="text-2xl font-bold">Weekly report</h2>
             <p>Track your performance</p>
@@ -72,7 +72,7 @@
         </section>
 
         <section class="flex w-full space-x-4">
-          <div class="h-72 w-1/2 space-y-4 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
+          <div class="h-72 w-1/2 space-y-4 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
             <h2 class="text-2xl font-bold">Study 78x</h2>
             <div class="flex space-x-2">
               <img class="h-7 w-7" src="time-filled-svgrepo-com.svg" alt="" />
@@ -80,7 +80,7 @@
             </div>
           </div>
 
-          <div class="h-72 w-1/2 space-y-4 border-2 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
+          <div class="h-72 w-1/2 space-y-4 bg-gradient-to-br from-[#e6ccc1] via-[#e0c8c3] to-[#fadfc6] pl-8 pt-8">
             <h2 class="text-2xl font-bold">Analyses</h2>
             <div class="flex space-x-2">
               <img class="h-7 w-7" src="check-svgrepo-com.svg" alt="" />
